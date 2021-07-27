@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Shruti Agarwal. I am a student of Shiv Nadar University, pursuing M.Sc. Economics.
-I trying to learn R programming.
+
 
 
 <!--
@@ -8,7 +8,7 @@ I trying to learn R programming.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on R programming
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
