@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am 
+I am Shruti Agarwal. I am a student of Shiv Nadar University, pursuing M.Sc. Economics.
+I trying to learn R programming.
+
 
 <!--
 **shruti2262/shruti2262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
