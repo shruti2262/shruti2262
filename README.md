@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am Shruti Agarwal. I am a student of Shiv Nadar University, pursuing M.Sc. Economics.
-I’m currently working on R software.
+##I am Shruti Agarwal. I am a student of Shiv Nadar University, pursuing M.Sc. Economics.
+##I’m currently working on R software.
 
 
 <!--
